@@ -1,23 +1,23 @@
-### evChess Project Documentation
+# evChess Project Documentation
 
 ## Project Overview
 The aim of the evChess project is to provide a platform for Nepalese players to compete and learn chess. The project aims to facilitate the growth of chess in Nepal, especially among the younger generation, with the ultimate goal of producing an international master. The project will include features such as a homepage with general news information, user dashboards, puzzles, leaderboards, verified profiles for fair play, rewards system, and regular tournaments like the Saturday Morning Blitz.
 
-# Development Plans
+### Development Plans
 
-# 1. Homepage:
+### 1. Homepage:
         - General news information displayed.
         - Login or signup button at one corner for user convenience.
-# 2. User Dashboard:
+### 2. User Dashboard:
         - Each player will have their own dashboard.
         - Past results and upcoming tournaments will be displayed.
         - Puzzle of the day and Leaderboard will be featured.
-# 3. Profile Verification:
+### 3. Profile Verification:
         - Profiles need to be verified before players can compete in tournaments.
         -Verification ensures fair play and discourages cheating.
-# 4. Rewards System:
+### 4. Rewards System:
         - Players can redeem prizes for bonus points collected.
-# 5. Regular Tournaments:
+### 5. Regular Tournaments:
         - Scheduled events like the Saturday Morning Blitz to engage users and encourage competition.
 
 ## News Feed Schedule
