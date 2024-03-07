@@ -19,11 +19,17 @@ Development Plans:
 On the news feed:
 Sunday: Game of the week analysis
         Youtube video explaining the game on the official channel
+        
 Monday: Reflection on Past Player
+
 Tuesday: Interview with a legend
+
 Wednesday: Learn an Opening
+
 Thursday: Learn a Middlegame strategy
+
 Friday: Learn an Endgame Strategy
+
 Saturday: Saturday Morning Blitz
 
 
