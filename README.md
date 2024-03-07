@@ -17,6 +17,7 @@ Development Plans:
 8. Just like Titled Tuesday, we will have Saturday Morning Blitz regularly, so that one can climb the leaderboard.
 
 On the news feed:
+
 Sunday: Game of the week analysis
         Youtube video explaining the game on the official channel
         
