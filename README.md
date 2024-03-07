@@ -1,37 +1,52 @@
-# evChess
+### evChess Project Documentation
 
-The aim of this project is to give Nepalese player a platform to compete and learn Chess,
-so that younger generation can learn from it, and hope Nepal gets an international master
-someday.
+## Project Overview
+The aim of the evChess project is to provide a platform for Nepalese players to compete and learn chess. The project aims to facilitate the growth of chess in Nepal, especially among the younger generation, with the ultimate goal of producing an international master. The project will include features such as a homepage with general news information, user dashboards, puzzles, leaderboards, verified profiles for fair play, rewards system, and regular tournaments like the Saturday Morning Blitz.
 
+# Development Plans
 
-Development Plans:
+# 1. Homepage:
+        - General news information displayed.
+        - Login or signup button at one corner for user convenience.
+# 2. User Dashboard:
+        - Each player will have their own dashboard.
+        - Past results and upcoming tournaments will be displayed.
+        - Puzzle of the day and Leaderboard will be featured.
+# 3. Profile Verification:
+        - Profiles need to be verified before players can compete in tournaments.
+        -Verification ensures fair play and discourages cheating.
+# 4. Rewards System:
+        - Players can redeem prizes for bonus points collected.
+# 5. Regular Tournaments:
+        - Scheduled events like the Saturday Morning Blitz to engage users and encourage competition.
 
-1. Homepage with general news information. Login or signup button at one corner.
-2. When a player create an account, they have their own dashboard.
-3. The dashboard contains their past results and upcoming tournament if they have joined one.
-4. Dashboard also contains Puzzle of the day and Leaderboard
-5. Profiles need to be verified before they can compete in the tournament.
-6. Verification is necessary because people are less likely to cheat and ruin others time and performance if they have fear of being caught.
-7. Rewards section where you can redeem prize for the bonus points collected.
-8. Just like Titled Tuesday, we will have Saturday Morning Blitz regularly, so that one can climb the leaderboard.
+## News Feed Schedule
+- Sunday: Game of the week analysis with a Youtube video on the official channel.
+- Monday: Reflection on past players.
+- Tuesday: Interview with a chess legend.
+- Wednesday: Learn an opening strategy.
+- Thursday: Learn a middlegame strategy.
+- Friday: Learn an endgame strategy.
+- Saturday: Saturday Morning Blitz tournament.
 
-On the news feed:
+## Volunteer Opportunities
+Volunteers are needed for various roles in the project due to budget constraints. Compensation may be provided in the form of bounties as progress is made. Roles may include but are not limited to:
+- Developers
+- Designers
+- Content Creators
+- Moderators
 
-Sunday: Game of the week analysis
-        Youtube video explaining the game on the official channel
-        
-Monday: Reflection on Past Player
+## Technology Stack
+The website will be designed using Django framework for its robustness and scalability. Django provides a secure and efficient platform for web development, making it suitable for a project like evChess.
 
-Tuesday: Interview with a legend
+## Next Steps
+1. Create wireframes and design mockups for the website layout.
+2. Develop user authentication system for login/signup functionality.
+3. Implement user dashboards with past results and upcoming tournaments.
+4. Set up puzzle of the day feature and leaderboard functionality.
+5. Establish profile verification process for fair play.
+6. Design rewards system for bonus points redemption.
+7. Plan and schedule regular tournaments like Saturday Morning Blitz.
+8. Recruit volunteers for various roles in the project.
 
-Wednesday: Learn an Opening
-
-Thursday: Learn a Middlegame strategy
-
-Friday: Learn an Endgame Strategy
-
-Saturday: Saturday Morning Blitz
-
-
-Volunteers needed because this is my pet project and I don't have budget to compensate everyone. I will have bounty added later after some progress happens.
+By following these steps and incorporating the outlined features, evChess can become a successful platform for chess enthusiasts in Nepal to learn, compete, and grow in their passion for the game.
